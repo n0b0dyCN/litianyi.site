@@ -32,19 +32,19 @@ I’m also interested in Chinese opera.
 
 ## Projects
 
-* [gbdt-rs](https://github.com/mesalock-linux/gbdt-rs): a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
-* [Redis Rogue Server](https://github.com/n0b0dyCN/redis-rogue-server): Redis <= 5.0.5 RCE exploit
+1. [gbdt-rs](https://github.com/mesalock-linux/gbdt-rs): a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
+1. [Redis Rogue Server](https://github.com/n0b0dyCN/redis-rogue-server): Redis <= 5.0.5 RCE exploit
 
 ## Publications
 1. **From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age**</br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, <u>Tianyi Li</u>, Junmin Zhu, Guannan Guo, Yue Liu and Jianju Hu</br>
 International Conference on Information Systems Security and Privacy, 2021</br>
 [to appear]
-2. **Poster: gbdt-rs: Fast and Trustworthy Gradient Boosting Decision Tree**</br>
+1. **Poster: gbdt-rs: Fast and Trustworthy Gradient Boosting Decision Tree**</br>
 <u>Tianyi Li</u>, Tongxin Li, Yu Ding, Yulong Zhang, Tao Wei, Xinhui Han</br>
 Security & Privacy IEEE, 2019</br>
 [pdf](./papers/gbdt-rs-sp19.pdf), [code](https://github.com/mesalock-linux/gbdt-rs)
-3. **POSTER: PT-DBG: Automatically anti-debugging bypassing based on Intel Processor Trace**</br>
+1. **POSTER: PT-DBG: Automatically anti-debugging bypassing based on Intel Processor Trace**</br>
 Guancheng Li, Yongheng Chen, <u>Tianyi Li</u>, Tongxin Li, Xinfeng Wu, Chao Zhang, Xinhui Han</br>
 Security & Privacy IEEE, 2018</br>
 [pdf](./papers/ptdbg-sp18.pdf)
