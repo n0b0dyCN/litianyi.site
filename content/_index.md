@@ -9,9 +9,9 @@ I'm Tianyi Li, a third-year master student at [Wangxuan Institute of Computer Te
 My research interests focus on security, privacy and program analysis.
 I am also a member of CTF team [r3kapig](https://r3kapig.com/), mainly plays the web challenges.
 
-I'm interested in music.
-I have participated in rehearsal of the PKU EECS chorus competition for 7 years [link](https://eecs129.site/) and I sing as Base in the choir.
-I'm also interested in Chinese opera.
+I’m interested in music.
+I have participated in the rehearsal of the PKU EECS chorus competition for 7 years ([link](https://eecs129.site/)), and I sing as Base in the choir.
+I’m also interested in Chinese opera.
 
 
 ## Education
