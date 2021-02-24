@@ -39,7 +39,7 @@ I’m also interested in Chinese opera.
 1. **From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age**</br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, <u>Tianyi Li</u>, Junmin Zhu, Guannan Guo, Yue Liu and Jianju Hu</br>
 International Conference on Information Systems Security and Privacy, 2021</br>
-[to appear]
+[pdf](./papers/ICScope-icissp21.pdf)
 1. **Poster: gbdt-rs: Fast and Trustworthy Gradient Boosting Decision Tree**</br>
 <u>Tianyi Li</u>, Tongxin Li, Yu Ding, Yulong Zhang, Tao Wei, Xinhui Han</br>
 Security & Privacy IEEE, 2019</br>
