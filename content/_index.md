@@ -6,8 +6,8 @@ date: 2021-02-20T20:27:14+08:00
 ## About Me
 
 I'm Tianyi Li, a third-year master student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
-My research interests focus on security, privacy and program analysis.
-I am also a member of CTF team [r3kapig](https://r3kapig.com/), mainly plays the web challenges.
+My research interests include security, privacy and program analysis.
+I am also a member of CTF team [r3kapig](https://r3kapig.com/), mainly focus on web challenges.
 
 I’m interested in music.
 I have participated in the rehearsal of the PKU EECS chorus competition for 7 years ([link](https://eecs129.site/)), and I sing as Base in the choir.
@@ -25,14 +25,14 @@ I’m also interested in Chinese opera.
 
 ## Research Interest
 
-* Web Security & Privacy
-* Program analysis
-* TEE
+* Web Security & Privacy (Vulnerabilities, Tracking)
+* Dynamic and Static Program Analysis (JavaScript, Binary)
+* Trusted Execution Environment (TEE)
 
 
 ## Projects
 
-1. [gbdt-rs](https://github.com/mesalock-linux/gbdt-rs): a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
+1. [gbdt-rs](https://github.com/mesalock-linux/gbdt-rs): A fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
 1. [Redis Rogue Server](https://github.com/n0b0dyCN/redis-rogue-server): Redis <= 5.0.5 RCE exploit
 
 ## Publications
