@@ -25,9 +25,9 @@ I’m also interested in Chinese opera.
 
 ## Research Interest
 
-* Web Security & Privacy (Vulnerabilities, Tracking, Measurement)
+* Web Security & Privacy (Vulnerabilities, User Tracking, Web/Internet Measurement)
 * Dynamic and Static Program Analysis (JavaScript, Binary)
-* Trusted Execution Environment (TEE)
+* Trusted Execution Environment (Intel SGX)
 
 
 ## Projects
@@ -36,6 +36,9 @@ I’m also interested in Chinese opera.
 1. [Redis Rogue Server](https://github.com/n0b0dyCN/redis-rogue-server): Redis <= 5.0.5 RCE exploit
 
 ## Publications
+
+\[[Google Scholar](https://scholar.google.com/citations?user=8xv4HxIAAAAJ&hl=en)\]
+
 1. **From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age**</br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, <u>Tianyi Li</u>, Junmin Zhu, Guannan Guo, Yue Liu and Jianju Hu</br>
 International Conference on Information Systems Security and Privacy, 2021</br>
