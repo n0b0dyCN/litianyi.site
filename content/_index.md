@@ -13,6 +13,10 @@ I’m interested in music.
 I have participated in the rehearsal of the PKU EECS chorus competition for 7 years ([link](https://eecs129.site/)), and I sing as Base in the choir.
 I’m also interested in Chinese opera.
 
+## Contact
+
+* Email: [contact \[AT\] litianyi.site](mailto:me@litianyi.site)
+* Github: [https://github.com/n0b0dyCN](https://github.com/n0b0dyCN)
 
 ## Education
 
@@ -54,9 +58,4 @@ Security & Privacy IEEE, 2018</br>
 
 ## Patents
 
-1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置
-
-## Contact
-
-* Email: [contact \[AT\] litianyi.site](mailto:me@litianyi.site)
-* Github: [https://github.com/n0b0dyCN](https://github.com/n0b0dyCN)
+1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 \[CN112199274A\]
