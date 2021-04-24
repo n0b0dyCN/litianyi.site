@@ -43,19 +43,23 @@ I’m also interested in Chinese opera.
 
 \[[Google Scholar](https://scholar.google.com/citations?user=8xv4HxIAAAAJ&hl=en)\]
 
+1. **Poster: FPFlow: Detect and Prevent Browser Fingerprinting with Dynamic Taint Analysis**</br>
+<u>Tianyi Li</u>, Xiaofeng Zheng, Kaiwen Shen, Xinhui Han</br>
+**[S&P POSTER]** Security & Privacy IEEE, 2021</br>
+[pdf](./papers/fpflow-sp21.pdf), [poster](./papers/fpflow-poster-sp21.pdf)
 1. **From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age**</br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, <u>Tianyi Li</u>, Junmin Zhu, Guannan Guo, Yue Liu and Jianju Hu</br>
-International Conference on Information Systems Security and Privacy, 2021</br>
+**[ICISSP]** International Conference on Information Systems Security and Privacy, 2021</br>
 [pdf](./papers/ICScope-icissp21.pdf)
 1. **Poster: gbdt-rs: Fast and Trustworthy Gradient Boosting Decision Tree**</br>
 <u>Tianyi Li</u>, Tongxin Li, Yu Ding, Yulong Zhang, Tao Wei, Xinhui Han</br>
-Security & Privacy IEEE, 2019</br>
+**[S&P POSTER]** Security & Privacy IEEE, 2019</br>
 [pdf](./papers/gbdt-rs-sp19.pdf), [code](https://github.com/mesalock-linux/gbdt-rs)
 1. **POSTER: PT-DBG: Automatically anti-debugging bypassing based on Intel Processor Trace**</br>
 Guancheng Li, Yongheng Chen, <u>Tianyi Li</u>, Tongxin Li, Xinfeng Wu, Chao Zhang, Xinhui Han</br>
-Security & Privacy IEEE, 2018</br>
+**[S&P POSTER]** Security & Privacy IEEE, 2018</br>
 [pdf](./papers/ptdbg-sp18.pdf)
 
 ## Patents
 
-1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 \[CN112199274A\]
+1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 [CN112199274A]
