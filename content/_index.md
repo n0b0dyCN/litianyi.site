@@ -62,4 +62,4 @@ Guancheng Li, Yongheng Chen, <u>Tianyi Li</u>, Tongxin Li, Xinfeng Wu, Chao Zhan
 
 ## Patents
 
-1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 [CN112199274A]
+1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 [CN202010987219.0]
