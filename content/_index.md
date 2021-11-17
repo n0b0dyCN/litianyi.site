@@ -5,8 +5,11 @@ date: 2021-02-20T20:27:14+08:00
 
 ## About Me
 
-I'm Tianyi Li, a third-year master student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
-My research interests include security, privacy and program analysis.
+I'm Tianyi Li, a senior security engineer at [Antgroup](https://www.antgroup.com/en).
+I'm currently working on MPC framework R&D.
+Previous to that, I'm a student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
+My research includes browser fingerprinting and it's detection techniques.
+I also worked on web security, privacy enhancing technologies and program (JavaScript and linux binary) analysis.
 I am a member of CTF team [r3kapig](https://r3kapig.com/) (ID: n0b0dy), and I mainly focus on web challenges.
 
 I’m interested in music.
@@ -18,9 +21,14 @@ I’m also interested in Chinese opera.
 * Email: [contact \[AT\] litianyi.site](mailto:me@litianyi.site)
 * Github: [https://github.com/n0b0dyCN](https://github.com/n0b0dyCN)
 
+## Work Experience
+
+* 2021 - present, Senior Security Engineer @ [Antgroup](https://www.antgroup.com/en)
+    - Developing secure and trusted multi-party computation system.
+
 ## Education
 
-* 2018 - present, [Peking University (PKU)](https://www.pku.edu.cn/)
+* 2018 - 2021, [Peking University (PKU)](https://www.pku.edu.cn/)
     - [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/)
     - Master of Science in Computer Application Technology
 * 2014 - 2018, [Peking University (PKU)](https://www.pku.edu.cn/)
