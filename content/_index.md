@@ -6,7 +6,8 @@ date: 2021-02-20T20:27:14+08:00
 ## About Me
 
 I'm Tianyi Li, a senior security engineer at [Antgroup](https://www.antgroup.com/en).
-I'm currently working on MPC framework R&D.
+Currently I'm working on high performance distributed [MPC](https://en.wikipedia.org/wiki/Secure_multi-party_computation) engine in [Rust programming language](https://www.rust-lang.org/).
+
 Previous to that, I'm a student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
 My research includes browser fingerprinting and it's detection techniques.
 I also worked on web security, privacy enhancing technologies and program (JavaScript and linux binary) analysis.
@@ -24,7 +25,13 @@ I’m also interested in Chinese opera.
 ## Work Experience
 
 * 2021 - present, Senior Security Engineer @ [Antgroup](https://www.antgroup.com/en)
-    - Developing secure and trusted multi-party computation system.
+    - Develop **distributed** and **fast** MPC engine (TECC) from scratch
+    - Design & implement distributed data analysis framework from scratch
+    - Tech Stack: Rust, PURE C, Python, Intel SGX with Occlum, a little bit Java
+    - Patents involved (first author): CN114726514A, CN114692060A
+    - Patents involved (other): CN114726512A, CN114726511A, CN114726580A, CN114003962A, CN113992439A, CN113987554A
+    - PR: [TECC white paper](https://mp.weixin.qq.com/s/Y8zgvyt3QikGvH7sfcjURA), [TECC in WAIC 2022](https://mp.weixin.qq.com/s/JfUPfQ_crlBuZDZ3zGkuPQ)
+
 
 ## Education
 
@@ -51,10 +58,11 @@ I’m also interested in Chinese opera.
 
 \[[Google Scholar](https://scholar.google.com/citations?user=8xv4HxIAAAAJ&hl=en)\]
 
-1. **Poster: FPFlow: Detect and Prevent Browser Fingerprinting with Dynamic Taint Analysis**</br>
+1. **FPFlow: Detect and Prevent Browser Fingerprinting with Dynamic Taint Analysis**</br>
 <u>Tianyi Li</u>, Xiaofeng Zheng, Kaiwen Shen, Xinhui Han</br>
 **[S&P POSTER]** Security & Privacy IEEE, 2021</br>
-[pdf](./papers/fpflow-sp21.pdf), [poster](./papers/fpflow-poster-sp21.pdf)
+**[CCSAC]** China Cyber Security Annual Conference, 2021</br>
+[poster abstract](./papers/fpflow-sp21.pdf), [paper](https://link.springer.com/chapter/10.1007/978-981-16-9229-1_4)
 1. **From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age**</br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, <u>Tianyi Li</u>, Junmin Zhu, Guannan Guo, Yue Liu and Jianju Hu</br>
 **[ICISSP]** International Conference on Information Systems Security and Privacy, 2021</br>
