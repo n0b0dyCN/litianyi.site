@@ -30,7 +30,7 @@ I’m also interested in Chinese opera.
     - Tech Stack: Rust, PURE C, Python, Intel SGX with Occlum, a little bit Java
     - Patents involved (first author): CN114726514A, CN114692060A
     - Patents involved (other): CN114726512A, CN114726511A, CN114726580A, CN114003962A, CN113992439A, CN113987554A
-    - PR: [TECC white paper](https://mp.weixin.qq.com/s/Y8zgvyt3QikGvH7sfcjURA), [TECC in WAIC 2022](https://mp.weixin.qq.com/s/JfUPfQ_crlBuZDZ3zGkuPQ)
+    - Public available resources: [TECC white paper](https://mp.weixin.qq.com/s/Y8zgvyt3QikGvH7sfcjURA), [TECC in WAIC 2022](https://mp.weixin.qq.com/s/JfUPfQ_crlBuZDZ3zGkuPQ)
 
 
 ## Education
