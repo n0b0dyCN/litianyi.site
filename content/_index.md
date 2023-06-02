@@ -5,13 +5,14 @@ date: 2021-02-20T20:27:14+08:00
 
 ## About Me
 
-I'm Tianyi Li, a senior security engineer at [Antgroup](https://www.antgroup.com/en).
-Currently I'm working on high performance distributed [MPC](https://en.wikipedia.org/wiki/Secure_multi-party_computation) engine in [Rust programming language](https://www.rust-lang.org/).
+I'm Tianyi Li, a blockchain security engineer at [CertiK](https://www.certik.com/).
 
-Previous to that, I'm a student at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
+Previous to that, I was a senior security engineer at Antgroup, designed and implemented high performance MPC computation system.
+
+I received my Bachelor and Master degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
 My research includes browser fingerprinting and it's detection techniques.
 I also worked on web security, privacy enhancing technologies and program (JavaScript and linux binary) analysis.
-I am a member of CTF team [r3kapig](https://r3kapig.com/) (ID: n0b0dy), and I mainly focus on web challenges.
+I was a member of CTF team [r3kapig](https://r3kapig.com/) (ID: n0b0dy), and I mainly focus on web challenges.
 
 I’m interested in music.
 I have participated in the rehearsal of the PKU EECS chorus competition for 7 years ([link](https://eecs129.site/)), and I sing as Base in the choir.
@@ -24,7 +25,8 @@ I’m also interested in Chinese opera.
 
 ## Work Experience
 
-* 2021 - present, Senior Security Engineer @ [Antgroup](https://www.antgroup.com/en)
+* 2023.5 - present, Blockchain Security Engineer @ [CertiK](https://www.certik.com/)
+* 2021.7 - 2023.5, Senior Security Engineer @ [Antgroup](https://www.antgroup.com/en)
     - Develop **distributed** and **fast** MPC engine (TECC) from scratch
     - Design & implement distributed data analysis framework from scratch
     - Tech Stack: Rust, PURE C, Python, Intel SGX with Occlum, a little bit Java
@@ -62,6 +64,7 @@ I’m also interested in Chinese opera.
 <u>Tianyi Li</u>, Xiaofeng Zheng, Kaiwen Shen, Xinhui Han</br>
 **[S&P POSTER]** Security & Privacy IEEE, 2021</br>
 **[CCSAC]** China Cyber Security Annual Conference, 2021</br>
+**[Patent]** 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 [CN112199274A]</br>
 [poster abstract](./papers/fpflow-sp21.pdf), [paper](https://link.springer.com/chapter/10.1007/978-981-16-9229-1_4)
 1. **From Exposed to Exploited: Drawing the Picture of Industrial Control Systems Security Status in the Internet Age**</br>
 Yixiong Wu, Jianwei Zhuge, Tingting Yin, <u>Tianyi Li</u>, Junmin Zhu, Guannan Guo, Yue Liu and Jianju Hu</br>
@@ -78,4 +81,6 @@ Guancheng Li, Yongheng Chen, <u>Tianyi Li</u>, Tongxin Li, Xinfeng Wu, Chao Zhan
 
 ## Patents
 
-1. 基于V8引擎的JavaScript动态污点跟踪方法及电子装置 [CN202010987219.0]
+1. Dynamic JavaScript taint analysis: CN112199274A
+2. Multiparty computation algorithms: CN114726514A, CN114692060A
+3. Multiparty computation system design: CN114726512A, CN114726511A, CN114726580A, CN114003962A, CN113992439A, CN113987554A
