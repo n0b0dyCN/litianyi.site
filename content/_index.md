@@ -7,7 +7,7 @@ date: 2021-02-20T20:27:14+08:00
 
 I'm Tianyi Li, a blockchain security engineer at [CertiK](https://www.certik.com/).
 
-Previous to that, I was a senior security engineer at Antgroup, designed and implemented high performance MPC computation system.
+Previous to that, I was a senior security engineer at [Antgroup](https://www.antgroup.com/en), designed and implemented high performance MPC computation system.
 
 I received my Bachelor and Master degree at [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/) of [Peking University (PKU)](https://www.pku.edu.cn/).
 My research includes browser fingerprinting and it's detection techniques.
