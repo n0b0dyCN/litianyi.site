@@ -26,6 +26,12 @@ I’m also interested in Chinese opera.
 ## Work Experience
 
 * 2023.5 - present, Blockchain Security Engineer @ [CertiK](https://www.certik.com/)
+    - Layer 1 blockchain fuzzing ([Massa](https://massa.net/), [Cosmos](https://cosmos.network/)).
+    - EVM emulation toolkit development focusing on speed and extensibility.
+    - Building a transaction emulation & monitoring tool upon the toolkit supporting EVM compatable chain with high performance (10-50ms/tx).
+    - Building a no-code testing tool for smart contract upon the toolkit, write rules for EIP standard (ERC20, ERC721, ERC4626, etc.) and attack patterns (e.g., Inflation attack), support testing against source code and on-chain contracts.
+    - Build web user interface for the tools.
+    - Tech Stack: Rust, Solidity, Golang
 * 2021.7 - 2023.5, Senior Security Engineer @ [Antgroup](https://www.antgroup.com/en)
     - Develop **distributed** and **fast** MPC engine (TECC) from scratch
     - Design & implement distributed data analysis framework from scratch
