@@ -56,7 +56,6 @@ I’m also interested in Chinese opera.
 * Dynamic and Static Program Analysis (JavaScript, Binary)
 * Trusted Execution Environment (Intel SGX)
 
-
 ## Projects
 
 1. [gbdt-rs](https://github.com/mesalock-linux/gbdt-rs): A fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
@@ -90,3 +89,12 @@ Guancheng Li, Yongheng Chen, <u>Tianyi Li</u>, Tongxin Li, Xinfeng Wu, Chao Zhan
 1. Dynamic JavaScript taint analysis: CN112199274A
 2. Multiparty computation algorithms: CN114726514A, CN114692060A
 3. Multiparty computation system design: CN114726512A, CN114726511A, CN114726580A, CN114003962A, CN113992439A, CN113987554A
+
+## Selected CTF Awards
+
+* DEFCON 28 CTF Final , 2020 14th place
+* DEFCON 27 CTF Final , 2019 10th place
+* 0CTF/TCTF 2019 Final, 1st place
+* BCTF 2018, 1st place
+* XCTF 2018 Final - HITB Beijing, 1st place
+* DEFCON 26 CTF Final, 18th place
