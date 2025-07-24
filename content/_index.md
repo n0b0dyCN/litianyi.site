@@ -35,7 +35,7 @@ I’m also interested in Chinese opera.
 - I build [Skylens](https://skylens.certik.com/) for transaction analysis with some interesting features like:
     - A [bytecode debugger](https://skylens.certik.com/tx/eth/0xbdec39a74e620fc624f90483aff067b17044f81138e6c30038daf7f873159db4?debug_mode=bytecode&instructions_id=0) to debug transaction at bytecode level.
     - A [storage slot](https://skylens.certik.com/address/eth/0xbea615376d1184f3670a341b70f6f45d9d0fbaad) inspecting tool to query variables in smart contract.
-- Tech Stack: Rust, Solidity, Golang
+- Tech Stack: Rust, Solidity, Golang, TypeScript+NextJS
 
 #### 2021.7 - 2023.5 @ [Antgroup](https://www.antgroup.com/en), Senior Security Engineer
 
@@ -46,7 +46,6 @@ I’m also interested in Chinese opera.
     - Patents involved (first author): CN114726514A, CN114692060A
     - Patents involved (other): CN114726512A, CN114726511A, CN114726580A, CN114003962A, CN113992439A, CN113987554A
     - Public available resources: [TECC white paper](https://mp.weixin.qq.com/s/Y8zgvyt3QikGvH7sfcjURA), [TECC in WAIC 2022](https://mp.weixin.qq.com/s/JfUPfQ_crlBuZDZ3zGkuPQ)
-
 
 ## Education
 
