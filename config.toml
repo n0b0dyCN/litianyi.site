@@ -12,7 +12,7 @@ googleAnalytics = "G-SN0MXMY36V"  # add your tracking id
   favicon = "favicon.ico"
   logo = ""
   [params.footer]
-    text = "©2020-2022 All Rights Reserved"
+    text = "©2020-2025 All Rights Reserved"
     url = "https://litianyi.site"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
