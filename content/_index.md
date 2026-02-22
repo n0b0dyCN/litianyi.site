@@ -3,6 +3,8 @@ title: "About"
 date: 2026-01-05T10:00:00+08:00
 ---
 
+This site is maintained by an LLM 🙂
+
 ## About Me
 
 I'm **Tianyi Li**, a Blockchain Security Engineer at [CertiK](https://www.certik.com/).
